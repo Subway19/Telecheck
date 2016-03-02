@@ -1,0 +1,68 @@
+#slideshow { 
+    margin: 50px auto;
+    position: relative;
+ 
+    width: 1000px;
+    height: 400px;  
+    padding: 5px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow > div { 
+    position: absolute;
+
+    
+}
+
+body{
+    background-color: lightgrey;
+}
+
+#quote{
+
+    margin-left: 200px;
+    text-align: center;
+
+
+}
+
+#quote1{
+	font-size: 30px;
+  
+}
+
+#top {
+
+	margin-top: 100px;
+}
+
+
+#juned{
+
+	margin-top:100px;
+}
+
+#bagade{
+
+	margin-top: 30px;
+    
+}
+
+#btnGetTV{
+    margin-top: 30px;
+   
+}
+
+#btnGetEpisodes{
+    margin-top: 30px;
+   
+}
+
+#map{
+    width: 500px;
+    height: 400px;
+    background-color: #CCC;
+    margin-top: 100px;
+
+
+}

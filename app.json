@@ -1,0 +1,6 @@
+{
+  "name": "Telecheck",
+  "description": "A small website related to television shows",
+  "repository": "https://github.com/Subway19/Telecheck",
+  "keywords": ["node", "express"]
+}

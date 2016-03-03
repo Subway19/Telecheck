@@ -13,6 +13,9 @@
     "type": "git",
     "url" : "https://github.com/Subway19/Telecheck"
   },
+  "engines": {
+    "node": "4.2.1"
+  },
   "dependencies": {
     "ejs": "^2.4.1",
     "express": "^4.13.4"

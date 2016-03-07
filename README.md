@@ -1,6 +1,8 @@
 # Telecheck
 A small website related to Television shows
 
+The site's live here - [Telecheck] (http://telecheck.herokuapp.com/)
+
 
 Make sure **Node.js** is installed and running on your system. For installation, check [Node.js] (https://nodejs.org/en/)
 

@@ -4,7 +4,7 @@ Short episode summaries of your favourite TV shows
 The site's live here - <a href="http://telecheck.herokuapp.com/">Telecheck</a>
 
 
-Make sure **Node.js** is installed and running on your system. For installation, check [Node.js] (https://nodejs.org/en/)
+Make sure **Node.js** is installed and running on your system. For installation, check <a href="https://nodejs.org/en/">Node.js</a>
 
 
 To run the website
@@ -19,7 +19,6 @@ Technologies used
 AJAX, jQuery, Bootstrap,
 Node.js, Gulp,
 TVmaze.com API
-
 
 
 

@@ -25,7 +25,7 @@ TVmaze.com API
 
 
 
-####Contributions
+Contributors - <a href="https://github.com/Juned94">Juned Ansari</a>
 
-Open an Issue [here] (https://github.com/Subway19/Telecheck/issues)
+
 
